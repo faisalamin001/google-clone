@@ -30,8 +30,6 @@ It is the clone of the Google where you can search for anything and it will show
   <img width="400" src="https://imgur.com/AUjbZpT.png"/>
   <img width="400" src="https://imgur.com/QDE3zc8.png"/>
   <br>
-  <img width="200" src="https://imgur.com/GNouoom.png"/>
-  <img width="200" src="https://imgur.com/EeudSyI.png"/>
 </p>
 
 ## License
